@@ -1,0 +1,11 @@
+{
+  "name": "metronic",
+  "homepage": "https://github.com/plumpboy/default-metronic-theme",
+  "authors": [
+    "Pham Tri Trung <phamtritrung39@gmail.com>"
+  ],
+  "description": "default metronoc theme",
+  "main": "",
+  "license": "MIT",
+  "version": "1.0.0"
+}
