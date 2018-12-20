@@ -1,11 +1,12 @@
 {
   "name": "metronic",
+  "version": "1.0.0",
   "homepage": "https://github.com/plumpboy/default-metronic-theme",
   "authors": [
     "Pham Tri Trung <phamtritrung39@gmail.com>"
   ],
-  "description": "default metronoc theme",
+  "description": "default metronic theme",
   "main": "",
-  "license": "MIT",
-  "version": "1.0.0"
+  "license": "MIT"
+
 }
